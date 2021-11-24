@@ -1,4 +1,4 @@
---drop database web_customer_tracker;
+drop database web_customer_tracker;
 
 create database web_customer_tracker;
 
