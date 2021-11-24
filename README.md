@@ -1,0 +1,1 @@
+A sample docker-compose.yml to start PostgreSQL RDBMS
